@@ -1,0 +1,4 @@
+Learning Progress
+
+Installation +
+MVC + {Django uses MTV-(Model-Model | Template-View | View-Controller)}
